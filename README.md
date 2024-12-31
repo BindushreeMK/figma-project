@@ -18,3 +18,7 @@ The project includes fully developed layouts, components, interactive elements, 
 - **Icon Libraries**: Icons used in the design are sourced from [icons8.com] and source for few of the Icons are custom-made.
 - **Sketch**: Sketches used in the design are sourced from [sketchappsources.com]
 - **Fonts**: used for consistency and readability.
+
+ ### Clone the repository:
+```bash
+git clone
