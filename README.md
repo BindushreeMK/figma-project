@@ -21,4 +21,4 @@ The project includes fully developed layouts, components, interactive elements, 
 
  ### Clone the repository:
 ```bash
-git clone
+git clone https://github.com/BindushreeMK/figma-project.git
